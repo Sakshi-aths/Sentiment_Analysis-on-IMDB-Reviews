@@ -1,5 +1,6 @@
 # Sentiment_Analysis-on-IMDB-Reviews
 The application of natural language processing and machine learning techniques to analyze sentiment in IMDb movie reviews is quite intriguing. IMDb is a famous platform where users can review and rate movies. In this context, sentiment analysis is an automated examination of such judgments to determine the mood or emotion exhibited by viewers.
+
 Dataset
 The dataset used for this sentiment analysis task is the IMDb movie reviews dataset. It contains 50,000 movie reviews, with 25,000 in the training set and 25,000 in the testing set. Each review is labeled as either positive or negative, making it suitable for a binary classification task.
 
@@ -34,5 +35,6 @@ Clone this repository to your local machine.
 Ensure you have the necessary libraries and dependencies installed.
 Run the provided Jupyter Notebook or Python script to train and evaluate the sentiment analysis model.
 Explore the evaluation metrics and model predictions on the test dataset.
+
 Conclusion
 Sentiment analysis on IMDb movie reviews is a common NLP task, and this repository provides a framework for building and evaluating a classification model using TensorFlow and Keras. By preprocessing the data, training the model, and calculating key evaluation metrics, you can gain insights into the model's performance in classifying movie reviews as positive or negative. Feel free to experiment with different model architectures and hyperparameters to improve the results.
